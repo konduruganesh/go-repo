@@ -4,3 +4,4 @@ go 1.20
 use ./dognew
 use ./learn-go/go-learning-start
 use ./puppy
+use ./loops
